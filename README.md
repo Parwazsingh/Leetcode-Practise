@@ -1,4 +1,4 @@
-# Coding-Practise
+# LeetCode-Practise
 Solutions to the problems
 
 <!---LeetCode Topics Start-->
